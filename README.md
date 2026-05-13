@@ -1,7 +1,7 @@
 Reverse Engineering Papyrus Segmentation Pipeline
 Herculaneum Scroll CT Data
 By: Mostafa Shehata
-Overview
+.
 This project implements a full processing pipeline for CT scan data of Herculaneum papyrus.
 The workflow includes dataset exploration, volume visualization, clustering analysis, and autoencoderbased
 reconstruction using Python scripts.
